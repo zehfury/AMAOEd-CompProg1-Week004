@@ -1,2 +1,2 @@
 # AMAOEd-CompProg1-Week004
-My very fist C++ application
+My very first C++ application
